@@ -1,4 +1,7 @@
-Currently used version of gcc for Renux crosstoolchain
+Currently used versions of gcc and libraries for Renux crosstoolchain:
 
-GCC 4.5 
+GCC 4.5.0
+GMP 4.3.1
+MPC 0.8.1
+MPFR 2.4.2
 
